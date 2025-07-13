@@ -27,6 +27,7 @@
     {
       "resources": [
         "assets/images/*.PNG",
+        "assets/images/*.png",
         "assets/popup/*.jpeg",
         "assets/popup/*.webp",
         "assets/popup/*.png"
