@@ -1,12 +1,13 @@
 {
   "_comment": "this is p much the base stuff",
   "manifest_version": 3,
-  "name": "Kumify",
-  "version": "1.2.0",
+  "name": "Nozofy",
+  "version": "1.0.0",
   "icons": {
-    "128": "assets/icon/IconKumiko.png"
+    "128": "assets/icon/iconNozomi128.png",
+    "16": "assets/icon/iconNozomi16.png"
   },
-  "description": "Make every YouTube Thumbnail into Kumiko!",
+  "description": "Make every YouTube Thumbnail into Nozomi!",
   "host_permissions": ["https://www.youtube.com/*"],
   "permissions": [
     "storage"
