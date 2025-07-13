@@ -1,5 +1,5 @@
 (() => {
-    const numImages = 102;
+    const numImages = 1;
 
     // See whether overlays are even enabled
     chrome.storage.local.get(['overlayEnabled'], (result) => {
